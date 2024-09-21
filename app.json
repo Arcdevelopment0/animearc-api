@@ -5,7 +5,7 @@
     "Nodejs",
     "express"
   ],
-  "website": "http://animearc.great-site.net/",
+  "website": "http://animearc.zya.me/",
   "repository": "https://github.com/warlordsnet/zia-api",
   "logo": "https://cdnzia.pages.dev/favicon.ico",
   "success_url": "/welcome"
